@@ -478,5 +478,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Sta is running on port ${port}`);
+  console.log(`St is running on port ${port}`);
 });
