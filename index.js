@@ -40,7 +40,7 @@ const sendEmail = (emailAddress, emailData) => {
   })
 
   // verify transporter
-  // verif
+  // veri
   transporter.verify(function (error, success) {
     if (error) {
       console.log(error)
