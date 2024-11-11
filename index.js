@@ -474,7 +474,7 @@ async function run() {
 run().catch(console.dir);
 
 app.get("/", (req, res) => {
-  res.send("Hello from StayV Server..");
+  res.send("Hello from Stay Server..");
 });
 
 app.listen(port, () => {
