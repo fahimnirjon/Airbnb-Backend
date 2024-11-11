@@ -478,5 +478,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`StayVi is running on port ${port}`);
+  console.log(`Stayi is running on port ${port}`);
 });
