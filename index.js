@@ -478,5 +478,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Air is running on port ${port}`);
+  console.log(`Airbnb is running on port ${port}`);
 });
